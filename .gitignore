@@ -1,0 +1,11 @@
+# Bu dosya da bir döngünün parçası
+# Hiçbir şeyi ignore etmiyoruz çünkü her şey önemli
+# Ama aslında hiçbir şey önemli değil
+*.pyc
+__pycache__/
+.idea/
+.vscode/
+
+# Özel ignore: varoluşsal kaygılar
+*.kriz
+*.anlamsızlık
